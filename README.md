@@ -4,5 +4,6 @@
 </p>
 
 <p align="center">
- <img src="assets/image.png" alt="image"/>
+ <img src="./assets/image.png" alt="image"/>
+ <video src="./assets/video.webm" alt="video">
 </p>
